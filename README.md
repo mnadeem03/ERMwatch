@@ -36,9 +36,7 @@ The application was developed with technical assistance from **Grok (built by xA
 3. Double-click `ERMwatch.exe` to launch.
    - A desktop shortcut will be created automatically.
 
-4. Add your resources in the **Management** tab.
-5. Monitoring starts automatically.
-6. Use search, generate PDF reports, import/export CSV, and switch languages/themes as needed.
+4. See USER MANUAL (USER MANUAL.md)
 
 **No installation required** • **Works completely offline**
 
